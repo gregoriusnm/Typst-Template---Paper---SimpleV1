@@ -19,7 +19,6 @@
     
 // End of Styling
 
-
 = Heading 1
 
 #lorem(100) /*Lorem here is just giving the Lorem text, remove and replace the Lorem with your own content - needs.*/
@@ -27,7 +26,6 @@
 \ #lorem(100)
 
 #pagebreak()
-
 
 = Heading 2
 #lorem(100)
